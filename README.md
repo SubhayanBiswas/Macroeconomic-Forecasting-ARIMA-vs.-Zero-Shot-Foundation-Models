@@ -41,3 +41,6 @@ To replicate the findings locally or on Google Colab:
 3. Install the required dependencies:
    ```bash
    pip install pandas numpy torch matplotlib seaborn statsmodels scipy chronos-forecasting transformers accelerate
+
+## 👤 Author
+**Subhayan Biswas**
